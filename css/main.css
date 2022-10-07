@@ -1,0 +1,22 @@
+.style_h3{
+    font-family: sans-serif;
+    color: rgb(3, 151, 96);
+    font-size: 2rem;
+    margin-left: 1em;
+}
+
+.style_p{
+    font-family: sans-serif;
+    color: rgb(59, 59, 59);
+    font-size: 1.2rem;
+    margin-left: 2em;
+}
+
+.style_img{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    float: left;
+    width: 10rem;
+    padding: 1em;
+    margin-right: 1.5em; 
+    margin-bottom: 5em;
+}
